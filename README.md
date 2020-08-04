@@ -3,10 +3,13 @@
 
 I am Fadhil (pronounce 'Fa-dale')
 
-My stack is as follows:
-* **Frontend**: VueJS + NuxtJS, jQuery
-* **Backend**: Python (Django & Flask), Go
-* **Cloud Computing**: Kubernetes, AWS, Google Cloud
+My stacks are as follows:
+* **Frontend**: [VueJS + NuxtJS](https://fadhil-blog.dev/tags/vue-js), jQuery
+* **Backend**: Python ([Django](https://fadhil-blog.dev/tags/django) & Flask), [Go](https://fadhil-blog.dev/tags/golang)
+* **Cloud Computing**: [Kubernetes](https://fadhil-blog.dev/tags/kubernetes), [AWS](https://verify.acloud.guru/4A968CDFC398), Google Cloud, DigitalOcean
+* **Others**: [RabbitMQ](https://fadhil-blog.dev/tags/message-queue), [Ansible](https://verify.acloud.guru/EE90B7C9B544), MySQL, ELK, Puppet
+
+I keep track of things that I learn [here](https://github.com/sdil/learning)
 
 You can also find me here:
 
