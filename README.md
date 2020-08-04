@@ -20,6 +20,6 @@ You can also find me here:
 <a href="https://github.com/sdil/sdil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdil&hide=html,css" />
 </a>
-<a href="https://github.com/catalinpit/catalinpit">
+<a href="https://github.com/sdil/sdil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdil&show_icons=true&line_height=27&count_private=true" />
 </a>
