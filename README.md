@@ -4,7 +4,7 @@
 I am Fadhil (pronounce 'Fa-dale')
 
 My stacks are as follows:
-* **Frontend**: [VueJS + NuxtJS](https://fadhil-blog.dev/tags/vue-js)
+* **Frontend**: [VueJS + NuxtJS](https://fadhil-blog.dev/tags/nuxt)
 * **Backend**: Python ([Django](https://fadhil-blog.dev/tags/django) & Flask), [Go](https://fadhil-blog.dev/tags/golang)
 * **Cloud Computing**: [Kubernetes](https://fadhil-blog.dev/tags/kubernetes), [AWS](https://verify.acloud.guru/4A968CDFC398), Google Cloud, DigitalOcean
 * **Others**: [RabbitMQ](https://fadhil-blog.dev/tags/message-queue), [Ansible](https://verify.acloud.guru/EE90B7C9B544), MySQL, ELK, Puppet
