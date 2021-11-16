@@ -4,7 +4,7 @@
 I am Fadhil (pronounce 'Fa-dale')
 
 My stacks are as follows:
-* **Frontend**: [Vue + Nuxt](https://fadhil-blog.dev/tags/nuxt), NextJS
+* **Frontend**: [Vue + Nuxt](https://fadhil-blog.dev/tags/nuxt), React & NextJS
 * **Backend**: Python ([Django](https://fadhil-blog.dev/tags/django), FastAPI & Flask), [Go](https://fadhil-blog.dev/tags/golang), Ruby on Rails
 * **Cloud Computing**: [Kubernetes](https://fadhil-blog.dev/tags/kubernetes), [AWS](https://verify.acloud.guru/4A968CDFC398), Google Cloud, DigitalOcean, Heroku
 * **Database**: MySQL, PostgreSQL, [Clickhouse](https://fadhil-blog.dev/tags/clickhouse), Firebase, DynamoDB (Single Table Design), Meilisearch, Redis, Elasticsearch
