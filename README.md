@@ -4,10 +4,10 @@
 I am Fadhil (pronounce 'Fa-dale')
 
 My stacks are as follows:
-* **Frontend**: [Vue + Nuxt](https://fadhil-blog.dev/tags/nuxt), React & NextJS, Tailwind, Chakra UI
+* **Frontend**: React & NextJS, [Vue + Nuxt](https://fadhil-blog.dev/tags/nuxt), Tailwind, Chakra UI
 * **Backend**: Python ([Django](https://fadhil-blog.dev/tags/django), FastAPI & Flask), [Go](https://fadhil-blog.dev/tags/golang), Ruby on Rails
 * **Cloud Computing**: [Kubernetes](https://fadhil-blog.dev/tags/kubernetes), [AWS](https://verify.acloud.guru/4A968CDFC398), Google Cloud, Fly.io, DigitalOcean, Heroku
-* **Database**: MySQL, PostgreSQL, [Clickhouse](https://fadhil-blog.dev/tags/clickhouse), Firebase, DynamoDB (Single Table Design), Meilisearch, Redis, Elasticsearch
+* **Database**: MySQL, PostgreSQL, [Clickhouse](https://fadhil-blog.dev/tags/clickhouse), CockroachDB, Firebase, DynamoDB (Single Table Design), Meilisearch, Redis, Elasticsearch
 * **Others**: [RabbitMQ](https://fadhil-blog.dev/tags/message-queue), [Ansible](https://verify.acloud.guru/EE90B7C9B544), Puppet
 
 I keep track of things that I learn [here](https://github.com/sdil/learning)
