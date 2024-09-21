@@ -12,7 +12,7 @@ My stacks are as follows:
 
 I keep track of things that I learn [here](https://github.com/sdil/learning)
 
-I'm building [Asthma Journey](https://www.asthmajourney.com) on the side
+I'm building [Simpan Cukai](https://simpancukai.com) [Asthma Journey](https://www.asthmajourney.com) on the side
 
 You can also find me here:
 
