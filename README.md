@@ -4,11 +4,11 @@
 I am Fadhil (pronounce 'Fa-dale')
 
 My stacks are as follows:
-* **Frontend**: React & NextJS, [Vue + Nuxt](https://fadhil-blog.dev/tags/nuxt), Tailwind, Chakra UI
-* **Backend**: [Go](https://fadhil-blog.dev/tags/golang), Typescript, Python ([Django](https://fadhil-blog.dev/tags/django), FastAPI & Flask)
-* **Cloud Computing**: [Kubernetes](https://fadhil-blog.dev/tags/kubernetes), [AWS](https://verify.acloud.guru/4A968CDFC398), Google Cloud, Fly.io, DigitalOcean, Heroku
-* **Database**: MySQL, PostgreSQL, [Clickhouse](https://fadhil-blog.dev/tags/clickhouse), CockroachDB, Firebase, DynamoDB (Single Table Design), Meilisearch, Redis, Elasticsearch
-* **Others**: [RabbitMQ](https://fadhil-blog.dev/tags/message-queue), [Ansible](https://verify.acloud.guru/EE90B7C9B544), Puppet
+* **Frontend**: React & NextJS, [Vue + Nuxt](https://fadhil-blog.dev/tags/nuxt), Tailwind, Chakra UI, InertiaJS, HTMX
+* **Backend**: [Go](https://fadhil-blog.dev/tags/golang), Typescript, Python ([Django](https://fadhil-blog.dev/tags/django), ~~FastAPI & Flask~~)
+* **Cloud Computing**: [Kubernetes](https://fadhil-blog.dev/tags/kubernetes), [AWS](https://verify.acloud.guru/4A968CDFC398), Fly.io, Azure, Google Cloud, DigitalOcean, Heroku
+* **Database**: MySQL, PostgreSQL, [Clickhouse](https://fadhil-blog.dev/tags/clickhouse), ~~Firebase~~, DynamoDB (Single Table Design), Meilisearch, Redis, Elasticsearch
+* **Others**: [RabbitMQ](https://fadhil-blog.dev/tags/message-queue), ~~[Ansible](https://verify.acloud.guru/EE90B7C9B544)~~, Puppet
 
 I keep track of things that I learn [here](https://github.com/sdil/learning)
 
